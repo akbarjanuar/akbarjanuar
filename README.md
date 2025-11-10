@@ -13,7 +13,7 @@
 - 🌱 Currently learning **advanced Flutter animations**  
 - 💡 Passionate about **UI/UX & clean code**  
 - ⚽ Creator of **Score Football App** (Live Football Scores Demo)  
-- 📫 Reach me at: **[akbarjanuar@gmail.com](mailto:akbarjanuar@gmail.com)**  
+- 📫 Reach me at: **[akbardutz123@gmail.com](mailto:akbarjanuar@gmail.com)**  
 
 ---
 
