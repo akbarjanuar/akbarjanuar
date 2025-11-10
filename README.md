@@ -28,6 +28,13 @@
 
 ---
 
+### 💬 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjanuar&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="50%" />
+</p>
+
+---
+
 ### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akbarjanuar&theme=onedark&no-frame=true&margin-w=10" />
