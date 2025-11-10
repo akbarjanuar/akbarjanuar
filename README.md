@@ -35,10 +35,6 @@
 
 ---
 
-### 🌈 Fun Quote
-<p align="center">
-  <i>“Coding is just like football — teamwork, strategy, and precision.” ⚽</i>
-</p>
 
 ---
 
