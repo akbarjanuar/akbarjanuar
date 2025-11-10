@@ -1,11 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter" alt="Flutter Badge" />
-  <img src="https://img.shields.io/badge/Dart-Lover-0175C2?logo=dart" alt="Dart Badge" />
-</p>
-
-<h1 align="center">Hi there 👋, I'm Akbar Januar</h1>
-<h3 align="center">💻 Flutter Developer | ⚽ Football Enthusiast | 🎨 UI Designer</h3>
 
 ---
 
