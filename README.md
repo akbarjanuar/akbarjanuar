@@ -9,10 +9,13 @@
 
 ---
 
-### 🌀 About Me
-- 🌱 Currently learning **advanced Flutter animations**  
-- 💡 Passionate about **UI/UX & clean code**  
-- ⚽ Creator of **Score Football App** (Live Football Scores Demo)  
+### 🧠 About Me
+- 👨‍💻 A passionate **programmer** who loves turning ideas into real applications  
+- 💡 Always exploring new technologies and improving problem-solving skills  
+- 🎯 Focused on **clean code**, scalability, and user-friendly design  
+- 🧩 Experienced with **mobile, web, and database** development  
+- 🚀 Currently building cool projects and learning advanced frameworks  
+- 💬 Open for collaboration or tech discussions — let's build something great!
 - 📫 Reach me at: **[akbardutz123@gmail.com](mailto:akbarjanuar@gmail.com)**  
 
 ---
