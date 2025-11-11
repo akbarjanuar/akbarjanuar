@@ -54,6 +54,13 @@
 
 ---
 
+### 👾 Pac-Man Mode
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akbarjanuar/akbarjanuar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:00B4D8&height=100&section=footer"/>
 </p>
