@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Jalankan otomatis tiap 6 jam
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *" # update tiap 6 jam
+  workflow_dispatch: # bisa dijalankan manual juga
 
 jobs:
   build:
@@ -18,9 +18,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: akbarjanuar
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
