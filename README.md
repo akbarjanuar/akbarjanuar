@@ -50,14 +50,3 @@
 | 🧠 [Quiz Brain](#) | Fun quiz app with animations |
 
 ---
-
-### 👾 Pac-Man Mode
-<p align="center">
- <img src="https://raw.githubusercontent.com/akbarjanuar/akbarjanuar/main/assets/pacman.svg" width="300" alt="Pac-Man Animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:00B4D8&height=100&section=footer"/>
-</p>
