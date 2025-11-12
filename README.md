@@ -55,9 +55,40 @@
 ---
 
 ### 👾 Pac-Man Mode
+### 👾 Pac-Man Mode
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="pacman animation" width="300"/>
+  <svg width="300" height="100" viewBox="0 0 300 100">
+    <!-- Titik-titik putih -->
+    <circle cx="80" cy="50" r="5" fill="white">
+      <animate attributeName="cx" from="80" to="300" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="130" cy="50" r="5" fill="white">
+      <animate attributeName="cx" from="130" to="300" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="180" cy="50" r="5" fill="white">
+      <animate attributeName="cx" from="180" to="300" dur="4s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Pac-Man -->
+    <path d="M50 50 L70 40 A20 20 0 1 1 70 60 Z" fill="yellow">
+      <animateTransform attributeName="transform"
+        type="translate"
+        from="0 0" to="200 0"
+        dur="4s"
+        repeatCount="indefinite"/>
+    </path>
+
+    <!-- Mata Pac-Man -->
+    <circle cx="55" cy="40" r="3" fill="black">
+      <animateTransform attributeName="transform"
+        type="translate"
+        from="0 0" to="200 0"
+        dur="4s"
+        repeatCount="indefinite"/>
+    </circle>
+  </svg>
 </p>
+
 
 
 ---
