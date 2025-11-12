@@ -53,7 +53,7 @@
 
 ### 👾 Pac-Man Mode
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akbarjanuar/akbarjanuar/main/assets/pacman.svg" width="300" alt="Pac-Man Animation" />
+ <img src="https://raw.githubusercontent.com/akbarjanuar/akbarjanuar/main/assets/pacman.svg" width="300" alt="Pac-Man Animation" />
 </p>
 
 ---
