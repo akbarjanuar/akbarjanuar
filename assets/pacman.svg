@@ -1,11 +1,36 @@
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Pac-Man -->
-  <path d="M50 50 L70 40 A20 20 0 1 1 70 60 Z" fill="yellow">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="200 0" dur="4s" repeatCount="indefinite"/>
-  </path>
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .dot {
+      fill: #39d353;
+      animation: moveDots 4s infinite linear;
+    }
+    .pacman {
+      fill: #f4c542;
+      transform-origin: 50px 50px;
+      animation: chomp 0.4s infinite;
+    }
+    @keyframes moveDots {
+      0% { transform: translateX(0); opacity: 1; }
+      100% { transform: translateX(-400px); opacity: 0; }
+    }
+    @keyframes chomp {
+      0% { clip-path: polygon(0% 0%, 100% 50%, 0% 100%); }
+      50% { clip-path: polygon(0% 10%, 100% 50%, 0% 90%); }
+      100% { clip-path: polygon(0% 0%, 100% 50%, 0% 100%); }
+    }
+  </style>
 
-  <!-- Mata Pac-Man -->
-  <circle cx="55" cy="40" r="3" fill="black">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="200 0" dur="4s" repeatCount="indefinite"/>
-  </circle>
+  <!-- Dots -->
+  <g>
+    <circle class="dot" cx="400" cy="50" r="8"/>
+    <circle class="dot" cx="350" cy="50" r="8"/>
+    <circle class="dot" cx="300" cy="50" r="8"/>
+    <circle class="dot" cx="250" cy="50" r="8"/>
+    <circle class="dot" cx="200" cy="50" r="8"/>
+    <circle class="dot" cx="150" cy="50" r="8"/>
+    <circle class="dot" cx="100" cy="50" r="8"/>
+  </g>
+
+  <!-- Pacman -->
+  <circle class="pacman" cx="50" cy="50" r="25" />
 </svg>
