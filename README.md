@@ -56,8 +56,9 @@
 
 ### 👾 Pac-Man Mode
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akbarjanuar/akbarjanuar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="pacman animation" width="300"/>
 </p>
+
 
 ---
 
