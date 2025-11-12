@@ -42,11 +42,9 @@
 
 ---
 
-### 📷 My Projects
-| Project | Description |
-|----------|--------------|
-| ⚽ [Score Football App](https://github.com/akbarjanuar/appscorefootball) | Live score app built with Flutter |
-| 💰 [WalletX](#) | Personal finance app with clean UI |
-| 🧠 [Quiz Brain](#) | Fun quiz app with animations |
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akbarjanuar/akbarjanuar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akbarjanuar/akbarjanuar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akbarjanuar/akbarjanuar/output/pacman-contribution-graph.svg">
+</picture>
 ---
