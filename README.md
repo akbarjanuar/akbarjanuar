@@ -14,14 +14,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akbarjanuar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akbarjanuar&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
----
-
-### 💬 Most Used Languages
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjanuar&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="50%" />
 </p>
+
 
 ---
 
